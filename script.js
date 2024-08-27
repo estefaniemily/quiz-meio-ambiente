@@ -14,6 +14,10 @@ const perguntas = [
                 texto: "No lixo comum!",
                 afirmacao: "Você errou, pois pilhas e baterias contêm substâncias tóxicas que podem contaminar o solo e a água. Elas devem ser descartadas em locais específicos para evitar danos ao meio ambiente. "
             },
+
+
+
+            
             {
                 texto: "Em pontos de coleta espcíficos para materiais perigosos",
                 afirmacao: "Você acertou! Pilhas e baterias precisam ser levadas a pontos de coleta específicos para garantir que sejam tratadas de forma segura."
